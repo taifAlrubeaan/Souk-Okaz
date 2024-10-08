@@ -18,8 +18,11 @@ Features
 Tech Stack
 ------------
 Platform: Android
+
 Development Tools: Android Studio, Jira, Git, GitHub
+
 Languages: XML, Java
+
 Methodology: Agile (Scrum)
 
 ------------
@@ -37,8 +40,11 @@ Installation
 How to Use
 -----------
 1// Register/Login: Sign up to start using the app.
+
 2/ Explore: Browse through posts and find traditional goods and cultural spots.
+
 3/ Interact: Like, comment, and save posts that interest you.
+
 4/ Contribute: Post your own experiences or promote your store in Souk Okaz.
 
 ---------
@@ -51,8 +57,13 @@ Roadmap
 Team
 --------
 Raghad Alboqami
+
 Taif Alrubeaan
+
 Shouq Alotaibi
+
 Ruba Albnhar
+
 Alanoud Alamri
+
 Rema Alsharef
